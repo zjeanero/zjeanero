@@ -2,7 +2,7 @@
 
 `Desenvolvedor Front-end`
 
-Me chamo Jean Secco Castro, tenho 23 anos e sou um entusiasta da tecnologia e estudante de programação, focado em desenvolvimento web. Atualmente, faço o curso de Desenvolvedor Full Stack Java pela EBAC e sigo aprimorando minhas habilidades em HTML,CSS e JavaScript.
+Me chamo Jean Secco Castro, tenho 23 anos e sou um entusiasta da tecnologia e estudante de programação, focado em desenvolvimento web. Atualmente, faço o curso de Desenvolvedor Full Stack Java pela EBAC e sigo aprimorando minhas habilidades em HTML, CSS e JavaScript.
 
 ### 🤖 Linguagens e Tecnologias
 
