@@ -118,6 +118,7 @@ Me chamo Jean Secco Castro, tenho 23 anos e sou um entusiasta da tecnologia e es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
