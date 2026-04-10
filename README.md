@@ -1,6 +1,6 @@
 # 🧑‍💻 Jean Secco
 
-`Desenvolvedor Front-end`
+`Desenvolvedor Full Stack`
 
 Olá! Me chamo Jean Secco Castro, tenho 24 anos e sou desenvolvedor Full Stack em formação, apaixonado por tecnologia e desenvolvimento.
 
