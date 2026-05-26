@@ -2,7 +2,7 @@
 
 `Desenvolvedor Full Stack`
 
-Olá! Me chamo Jean Secco Castro, tenho 24 anos e sou desenvolvedor Full Stack em formação, apaixonado por tecnologia e desenvolvimento.
+Olá! Me chamo Jean Secco Castro, tenho 24 anos e sou desenvolvedor Full Stack formado pela EBAC, apaixonado por tecnologia e desenvolvimento.
 
 Atualmente estudo e desenvolvo aplicações utilizando Java com Spring Boot no back-end e React com TypeScript no front-end, criando soluções completas com integração entre APIs e banco de dados PostgreSQL.
 
