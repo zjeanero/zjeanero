@@ -2,13 +2,17 @@
 
 `Desenvolvedor Full Stack`
 
-Olá! Me chamo Jean Secco Castro, tenho 25 anos e sou desenvolvedor Full Stack formado pela EBAC, apaixonado por tecnologia e desenvolvimento.
+Desenvolvedor Full Stack com atuação profissional em Flutter, Dart, PHP e bancos de dados SQL. Atualmente, faço parte da equipe da Criativa.app, contribuindo para o desenvolvimento e a manutenção de sistemas web e mobile.
 
-Atualmente estudo e desenvolvo aplicações utilizando Java com Spring Boot no back-end e React com TypeScript no front-end, criando soluções completas com integração entre APIs e banco de dados PostgreSQL.
+No dia a dia, realizo correções e melhorias em telas, implemento funcionalidades no front-end e no back-end, desenvolvo scripts SQL para relatórios e trabalho com permissões, consultas e estruturas de banco de dados.
 
-Tenho experiência prática com projetos como aplicações de delivery, e-commerce e gerenciamento de tarefas, aplicando conceitos como CRUD, consumo de APIs REST, gerenciamento de estado e boas práticas de organização de código.
 
-Estou em constante evolução, buscando aprimorar minhas habilidades em arquitetura de software e desenvolvimento back-end, com o objetivo de me tornar um desenvolvedor cada vez mais completo.
+
+Antes dessa experiência, desenvolvi projetos com Java, Spring Boot, React, TypeScript e PostgreSQL, incluindo APIs REST, integração com bancos de dados e interfaces responsivas.
+
+
+
+Meus diferenciais incluem disciplina, adaptabilidade, aprendizado rápido e organização. qualidades que me ajudam a evoluir constantemente e enfrentar desafios com maturidade.
 
 
 ### 🤖 Linguagens e Tecnologias
